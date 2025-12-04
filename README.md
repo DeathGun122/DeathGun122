@@ -1,16 +1,14 @@
 ## Hey 👋, I'm Rohan!
-Aspiring Quantitative Data Scientist | Machine Learning & Finance Enthusiast | Turning Math & Code into Impact  
-  
+Data Science Enthusiast | ML & Quant Finance Explorer | Future Researcher & Educator
 
-### About me : <br>
+### About Me
 
-* Aspiring Quantitative Data Scientist with a background in Computer Science and strong math skills.
-* Passionate about machine learning, quantitative finance, and data-driven problem solving.
-* Exploring time series forecasting, NLP for markets, risk modeling, and portfolio optimization.
-* Skilled in Python (pandas, scikit-learn, PyTorch, TensorFlow), SQL, and C++.
-* Interested in building scalable data pipelines, ML models, and trading algorithms.
-* Current goal: break into the quant/data science industry within 1 year.
-* Future vision: grow into leadership, entrepreneurship, and eventually use tech for philanthropy.  
+* Data-science-focused Computer Science student with solid mathematical foundations.
+* Deeply interested in machine learning, quantitative finance, and solving real-world problems with data.
+* Currently exploring time-series modeling, NLP for financial markets, risk analytics, and portfolio optimization.
+* Comfortable working with Python (pandas, scikit-learn, PyTorch, TensorFlow), SQL, and C++.
+* Enjoy building scalable pipelines, ML models, and early prototypes of trading or analytical systems.
+* Long-term goals: build a career as a Data Scientist and eventually enter academia to research, teach, and contribute to the field.
   
 
 ### Connect with me :
