@@ -1,6 +1,13 @@
 ## Hey 👋, I'm Rohan!
 Aspiring Educator | Future Researcher and Academic
 
+### About me:
+* Aspiring academic and researcher with a strong foundation in Computer Science, Mathematics, and analytical problem-solving.
+* Actively preparing for competitive national examinations (GATE, NET, JAM) with the long-term goal of entering top-tier research institutions.
+* Deeply interested in theoretical and interdisciplinary research areas spanning computation, mathematics, and physics, including foundations of computing and advanced algorithms.
+* Committed to pursuing a career in higher education, with a focus on teaching, mentoring, and contributing original research to the academic community.
+* Continuously developing technical depth through rigorous self-study, research projects, and academic writing alongside formal coursework.
+* Driven by discipline, curiosity, and resilience, aiming to build a meaningful, independent academic career through sustained effort rather than shortcuts.
   
 ### Connect with me :
 
