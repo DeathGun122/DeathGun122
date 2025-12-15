@@ -1,16 +1,7 @@
 ## Hey 👋, I'm Rohan!
-Data Science Enthusiast | ML & Quant Finance Explorer | Future Researcher & Educator
+Aspiring Educator | Future Researcher and Academic
 
-### About Me
-
-* Data-science-focused Computer Science student with solid mathematical foundations.
-* Deeply interested in machine learning, quantitative finance, and solving real-world problems with data.
-* Currently exploring time-series modeling, NLP for financial markets, risk analytics, and portfolio optimization.
-* Comfortable working with Python (pandas, scikit-learn, PyTorch, TensorFlow), SQL, and C++.
-* Enjoy building scalable pipelines, ML models, and early prototypes of trading or analytical systems.
-* Long-term goals: build a career as a Data Scientist and eventually enter academia to research, teach, and contribute to the field.
   
-
 ### Connect with me :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohan-biswas-428aaa340) 
