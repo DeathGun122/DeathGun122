@@ -1,5 +1,5 @@
-## Hey 👋, I'm Rohan!
-Full Stack Developer
+## Rohan Biswas
+Aspiring Softare Developer 
 
-### Skills :-
-Html, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, SQL
+### Skills:
+C | Java | DSA 
