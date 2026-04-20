@@ -11,3 +11,5 @@ Aspiring Java backend developer with strong focus on scalable systems, practical
 - Backend Mastery with projects
 - Basic level frontend with JS and React
 - Building full stack apps with scalable backend systems
+
+  ![](https://streak-stats.demolab.com/?user=deathgun122&theme=dark&hide_border=false)<br/>
